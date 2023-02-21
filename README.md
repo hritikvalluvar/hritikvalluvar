@@ -1,4 +1,4 @@
-Hi 👋 My name is Hritik Valluvar
+Hi 👋 My name is Hritik Valluvar🇮🇳
 ================================  
 
 Data Scientist
@@ -6,7 +6,7 @@ Data Scientist
 
 I am a master's student @University of Birmingham, United Kingdom, for MSc Artificial Intelligence and Machine Learning. I've been practising data science from 2020. I've worked on various machine learning and deep learning projects. My highlights would be working in Samsung as a Research Intern, I worked on ASR(Automated Speech Recognition) for language-identification(of English, Tamil, and English-Tamil code switched). I'm currently working as a Research Intern in NTU(Nanyang Technological University), Singapore. I'm working on document re-ranking.  
 
-* 🌍  I'm based in India
+* 🌍  I'm based in United Kingdom🇬🇧
 * ✉️  You can contact me at [hv5559@srmist.edu.in](mailto:hv5559@srmist.edu.in) / [hvalluvar@gmail.com](mailto:hvalluvar@gmail.com)
 * 🧠  I'm learning Document Re-ranking (Information Retrieval)
 * 🤝  I'm open to collaborating on Computer Vision, Natural Language Processing
