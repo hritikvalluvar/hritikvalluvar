@@ -8,7 +8,7 @@ I am a master's student @University of Birmingham, United Kingdom, for MSc Artif
 
 * 🌍  I'm based in United Kingdom🇬🇧
 * ✉️  You can contact me at [hritikvalluvar@gmail.com](mailto:hritikvalluvar@gmail.com)
-* 🧠  I'm learning Document Re-ranking (Information Retrieval)
+* 🧠  I'm working on Near-Infrared Optical Tomography
 * 🤝  I'm open to collaborating on Computer Vision, Natural Language Processing
 * ⚡  I'm interested in Planning, Strategies, System Design, and UX Design.
 
