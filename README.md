@@ -1,16 +1,16 @@
-Hi 👋 My name is Hritik Valluvar🇮🇳
+Hi 👋 My name is Hritik Valluvar 🇮🇳 | 🇬🇧
 ================================  
 
 Data Scientist
 --------------  
 
-I am a master's student @University of Birmingham, United Kingdom, for MSc Artificial Intelligence and Machine Learning. I've been practising data science from 2020. I've worked on various machine learning and deep learning projects. My highlights would be working in Samsung as a Research Intern, I worked on ASR(Automated Speech Recognition) for language-identification(of English, Tamil, and English-Tamil code switched). I'm currently working as a Research Intern in NTU(Nanyang Technological University), Singapore. I'm working on document re-ranking.  
+I am a recent post graduate from the University of Birmingham, United Kingdom, in MSc Artificial Intelligence and Machine Learning. I've been practising data science from 2020. I've worked on various machine learning and deep learning projects. My highlights would be working in Samsung as a Research Intern, I worked on ASR(Automated Speech Recognition) for language-identification(of English, Tamil, and English-Tamil code switched). I have alsl worked as a Research Intern in NTU(Nanyang Technological University), Singapore, where I worked on implementation of efficient algorithms for document re-ranking.  
 
 * 🌍  I'm based in United Kingdom🇬🇧
 * ✉️  You can contact me at [hritikvalluvar@gmail.com](mailto:hritikvalluvar@gmail.com)
-* 🧠  I'm working on Near-Infrared Optical Tomography
+* 🧠  I have worked on Near-Infrared Optical Tomography Optimisation (Medical Imaging)
 * 🤝  I'm open to collaborating on Computer Vision, Natural Language Processing
-* ⚡  I'm interested in Planning, Strategies, System Design, and UX Design.
+* ⚡  I'm also interested in Planning, Strategies, System Design, and UX Design.
 
 ## Skills
 
